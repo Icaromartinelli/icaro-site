@@ -44,7 +44,7 @@ export default function Page() {
           </div>
         </div>
         <div className="hero-media">
-          <Image src="/images/hero-lobby.jpg" alt="Ícaro Martinelli" width={1023} height={1537} priority sizes="(max-width: 900px) 100vw, 45vw" />
+          <Image src="/images/profile-crossed.jpg" alt="Ícaro Martinelli" width={1254} height={1254} priority sizes="(max-width: 900px) 100vw, 45vw" />
         </div>
       </section>
 

@@ -16,7 +16,7 @@ export default function Sobre() {
           <p>Não é sobre treinar mais por impulso. É sobre treinar melhor, com direção.</p>
         </div>
         <div className="about-media">
-          <Image src="/images/profile-crossed.jpg" alt="Ícaro Martinelli" width={1254} height={1254} priority sizes="(max-width: 900px) 100vw, 40vw" />
+          <Image src="/images/hero-lobby.jpg" alt="Ícaro Martinelli" width={1023} height={1537} priority sizes="(max-width: 900px) 100vw, 40vw" />
         </div>
       </section>
     </main>

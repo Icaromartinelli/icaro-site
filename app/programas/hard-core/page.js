@@ -11,10 +11,10 @@ export default function HardCore() {
       label="Hipertrofia e intensidade"
       title="Hard Core"
       tagline="Treino técnico, pesado e progressivo pra quem já passou do básico e quer volume real."
-      heroImage="/images/hero-gym.jpeg"
+      heroImage="/images/hard-core-gym.jpg"
       heroAlt="Protocolo Hard Core"
-      heroWidth={2048}
-      heroHeight={1536}
+      heroWidth={1400}
+      heroHeight={2488}
       meta={['Hipertrofia', 'Alto volume', 'Acesso imediato']}
       paragraphs={[
         'O Hard Core não é treino de academia genérico. É um protocolo de hipertrofia com progressão de carga e volume pensada pra quem já tem base de treino e quer evoluir o físico de forma séria — sem estagnar repetindo a mesma ficha de sempre.',
