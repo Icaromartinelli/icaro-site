@@ -6,20 +6,13 @@ const email = 'mailto:icaromartinelli@gmail.com'
 
 export default function SiteFooter() {
   return (
-    <>
-      <footer className="footer">
-        <div><b>Ícaro Martinelli</b><span>IM Personal</span></div>
-        <div className="footer-links">
-          <a href={instagram} target="_blank" rel="noopener noreferrer"><Instagram size={18}/> Instagram</a>
-          <a href={whatsapp} target="_blank" rel="noopener noreferrer"><MessageCircle size={18}/> WhatsApp</a>
-          <a href={email}><Mail size={18}/> E-mail</a>
-        </div>
-      </footer>
-
-      <div className="mobile-bar">
+    <footer className="footer">
+      <div><b>Ícaro Martinelli</b><span>Built to perform</span></div>
+      <div className="footer-links">
         <a href={instagram} target="_blank" rel="noopener noreferrer"><Instagram size={18}/> Instagram</a>
         <a href={whatsapp} target="_blank" rel="noopener noreferrer"><MessageCircle size={18}/> WhatsApp</a>
+        <a href={email}><Mail size={18}/> E-mail</a>
       </div>
-    </>
+    </footer>
   )
 }

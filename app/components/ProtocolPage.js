@@ -23,7 +23,7 @@ export default function ProtocolPage({
     <main>
       <section className="section protocol-hero">
         <div className="protocol-hero-copy">
-          <Link href="/#programas" className="protocol-back"><ArrowLeft size={15}/> Voltar aos programas</Link>
+          <Link href="/programas" className="protocol-back"><ArrowLeft size={15}/> Voltar aos programas</Link>
           <span className="eyebrow">{label}</span>
           <h1>{title}</h1>
           <p className="hero-copy-lead">{tagline}</p>
